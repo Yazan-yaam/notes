@@ -1,1 +1,1 @@
-# notes
+# <new-repo>
